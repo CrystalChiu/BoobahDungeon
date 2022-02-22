@@ -10,5 +10,3 @@ If standing on a square adjacent to the Boobah, pit, or gold. You will recieve t
 Once you find the gold, pick it up and find your way back without mis-stepping. 
 
 Do you dare enter the Boobah's Dungeon?
-
-* Done for a class project in C++
