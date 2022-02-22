@@ -5,7 +5,7 @@ Traverse the dark and dam dungeon of the Boobah, cursed be his name. Find his st
 
 L, R, U, D to move
 
-If standing on a square adjacent to the Boobah(B) or pit(. You will recieve the following indicators: The Boobah's horrendous tench (S), A slight breeze from the pit (B), or a glimmer from the gold (G). Choose correctly and you can pick up the gold! Otherwise it's certain DEATH!
+If standing on a square adjacent to the Boobah(B) or pit(. You will recieve the following indicators: The Boobah's horrendous stench (S), A slight breeze from the pit (B), or a glimmer from the gold (G). Choose correctly and you can pick up the gold! Otherwise it's certain DEATH!
 
 Once you find the gold, pick it up and find your way back without mis-stepping. 
 
